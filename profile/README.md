@@ -51,5 +51,5 @@ We're building the all-in-one platform for startups and growing teams. Manage yo
 
 ## 💬 Get Involved
 
-Interested in early access? Questions? [Reach out](https://141-solution.com)
+Interested in early access? Questions? [Reach out](https://discord.gg/NNngcEzSFw)
 

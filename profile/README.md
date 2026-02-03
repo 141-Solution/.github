@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# 🚀 141Solution
+# 🚀 141-Solution
 
 **Software. Einfach. Sicher.**
 

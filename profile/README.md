@@ -1,12 +1,24 @@
-## Hi there 👋
+## 141-solution.com
 
-<!--
+A SaaS platform for marketing automation and billing management.
 
-**Here are some ideas to get you started:**
+### About
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We're building a unified platform combining marketing tools with integrated billing services. Early stage—we're actively developing the MVP and refining our core offering.
+
+**Team:** Paul Buchwald, Marvin Strauß, Tobias Mißbach, Till Hirch
+
+**Status:** Idea / MVP  
+**Hosted on:** Hetzner  
+**Website:** [141-solution.com](https://141-solution.com)
+
+### What We're Building
+
+- Marketing automation platform
+- Integrated billing & subscription management
+
+### Get Involved
+
+Questions or interest in early access?
+Reach out via [141-solution.com](https://141-solution.com)
+

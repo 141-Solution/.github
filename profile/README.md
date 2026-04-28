@@ -99,7 +99,7 @@ Anfragen, Aufgaben und Support-Tickets zentral verwalten und priorisieren.
 | **Till Hirch** | Gründer |
 | **Marvin Strauß** | Mitgründer |
 | **Tobias Mißbach** | Mitgründer |
-| ** Julian Bartkowiak | Entwickler |
+| **Julian Bartkowiak** | Entwickler |
 
 ---
 

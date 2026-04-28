@@ -18,38 +18,76 @@ Wir entwickeln modulare SaaS-Lösungen für Unternehmen – Made in Germany, DSG
 
 ## 📋 Über uns
 
-**141-Solution** ist ein deutsches Software-Unternehmen, das modulare SaaS-Produkte für Marketing und Abrechnung entwickelt. Alle Dienste werden auf deutschen Servern gehostet und vollständig DSGVO-konform gestaltet.
+**141-Solution** ist ein deutsches Software-Unternehmen, das modulare SaaS-Produkte entwickelt – von Marketing-Automation und Rechnungssoftware über Zeiterfassung bis hin zu Fitness-Apps und Ticketsystemen. Alle Dienste werden auf deutschen Servern gehostet und vollständig DSGVO-konform gestaltet.
 
 **Wir bauen gerade auf.** Echte Vision. Kein Hype.
 
 ---
 
-## 🛠️ Unsere Produkte
+## 🛠️ Unsere Produkte & Projekte
 
 <table>
 <tr>
 <td align="center" width="50%">
 
+### 🌐 Landingpage
+
+**141-Solution & Products**
+
+Unsere Unternehmenswebsite – Präsentation von 141-Solution und allen Produkten.
+
+</td>
+<td align="center" width="50%">
+
 ### 📢 AdSolut
 
-**Marketing Automation**
+**Marketing Automation (Web App)**
 
 Kampagnen, Targeting, Automatisierungs-Workflows – alles in einer Plattform.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🏋️ FitSolut
+
+**Fitness App (Android)**
+
+Deine persönliche Fitness-Lösung – Trainingsplanung und Tracking für Android.
 
 </td>
 <td align="center" width="50%">
 
 ### 💳 BillSolut
 
-**Abrechnungssystem**
+**Rechnungssoftware**
 
-Abonnements, Rechnungsstellung, Zahlungsmanagement – einfach und übersichtlich.
+Rechnungsstellung, Abonnements, Zahlungsmanagement – einfach und übersichtlich.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⏱️ TimeSolut
+
+**Zeitmanagement / Zeiterfassung**
+
+Arbeitszeiten erfassen, Projekte tracken, Auswertungen auf einen Blick.
+
+</td>
+<td align="center" width="50%">
+
+### 🎫 Ticketsystem
+
+**Support & Aufgabenverwaltung**
+
+Anfragen, Aufgaben und Support-Tickets zentral verwalten und priorisieren.
 
 </td>
 </tr>
 </table>
-
-> 🔮 **Weitere Produkte in Planung** — Wir erweitern unser Portfolio kontinuierlich.
 
 ---
 

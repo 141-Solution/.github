@@ -100,6 +100,7 @@ Anfragen, Aufgaben und Support-Tickets zentral verwalten und priorisieren.
 | **Marvin Strauß** | Mitgründer |
 | **Tobias Mißbach** | Mitgründer |
 | **Julian Bartkowiak** | Entwickler |
+| **Perry Lenzion** | Entwickler |
 
 ---
 
